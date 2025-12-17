@@ -5,7 +5,7 @@ A simple Command-line Rock Paper Scissors game built using python,where the user
   --> user input
   --> random module
   --> if-elif-else condition
-## How Game Works:
+##How Game Works:
    -The user selects:
         '0'=>Rock
         '1'=>Paper
