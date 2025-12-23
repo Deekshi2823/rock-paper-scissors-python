@@ -24,6 +24,9 @@ The player selects one option, the computer randomly selects another, and the wi
 ## How to RUN:
 
  Step 1: Make sure python is installed on your systems.
+ 
  Step 2: Clone the repository or download it as ZIP file.
+ 
  Step 3: Open terminal or command prompt and move into the project directory.
+ 
  Step 4: Run the program.
