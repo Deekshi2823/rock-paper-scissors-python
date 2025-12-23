@@ -20,9 +20,3 @@ The player selects one option, the computer randomly selects another, and the wi
 ## 🛠️ Technologies Used
 
 - Programming Language: Python
-
-## 📦 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/rock-paper-scissors.git
